@@ -1,3 +1,5 @@
 **Apple Clone**
 
-![hero_iphone16pro_avail__fnf0f9x70jiy_largetall](https://github.com/user-attachments/assets/fc944f4b-2ec4-4aa3-8a00-9ff3cc64c239)
+![image](https://github.com/user-attachments/assets/4f51b508-8ebd-4fc9-b416-7b3a9768e4a1)
+
+![image](https://github.com/user-attachments/assets/091e8d13-c111-466b-b1d3-5e77e9daf3cb)
