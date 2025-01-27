@@ -1,0 +1,21 @@
+h1 {
+    font-size: 100px;
+    height: 80vh;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://t3.ftcdn.net/jpg/05/78/30/54/360_F_578305498_H1fcticyRCJntyjBSrgRgwnXwLIwSzzM.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+h1:hover {
+    background-image: url("https://t3.ftcdn.net/jpg/05/78/30/54/360_F_578305498_H1fcticyRCJntyjBSrgRgwnXwLIwSzzM.jpg");
+    letter-spacing: 10px;
+}
