@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.about{
+  background-color: #fff;
+}
+.about h1{
+  color: #111;
+  text-align: center;
+  padding-top: 2rem; 
+}
+.about p{
+  color: #111;
+  text-align: center;
+  font-weight: 200;
+  padding-top: 1rem;
+}
+
+.abt{
+  width: 100vw;
+  height: 60vh;
+  display: flex;
+}
+.abt .abt-img{
+  width: 50vw;
+}
+.abt-img img{
+  margin-top: 0.3rem;
+  margin-left: 5rem;
+  width: 15rem;
+  height: 19rem;
+  -webkit-transform: scaleX(-1);
+}
+.abt .abt-para h4{
+  color: #111;
+  width: 50vw;
+  height: auto;
+  /* align-items: center;
+  text-align: center; */
+}
