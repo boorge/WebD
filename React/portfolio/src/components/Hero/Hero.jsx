@@ -13,7 +13,7 @@ const Hero = () => {
         </div>
         <div className="para">
           <p>
-            I'm <span className="para-s">Software Engineer</span>{" "}
+            I'm <span className="text sec-text">Software Engineer</span>
           </p>
         </div>
         {/* <div className="links">
@@ -30,7 +30,10 @@ const Hero = () => {
               <i class="fa-brands fa-github"></i> Github
             </button>
           </a>
-          <a href="https://drive.google.com/file/d/1YAsBzRsrQSuzit351iz0OH_BScIUU5Mx/view?usp=sharing" target="_blank">
+          <a
+            href="https://drive.google.com/file/d/1YAsBzRsrQSuzit351iz0OH_BScIUU5Mx/view?usp=sharing"
+            target="_blank"
+          >
             <button className="left-rem">Resume</button>
           </a>
         </div>
@@ -38,6 +41,10 @@ const Hero = () => {
       <div className="hero-right">
         <img src={heroImg} alt="port-img" className="heroImg" />
       </div>
+
+      <script>
+        
+      </script>
     </div>
   );
 };

@@ -17,6 +17,7 @@
   /* background-color: #31a104; */
   width: 50vw;
 }
+
 .left-h {
   color: #111;
   font-size: 1rem;
@@ -72,17 +73,20 @@
   color: #fff;
   background-color: #a52a2a;
 }
-.links i{
+
+.links i {
   /* margin-right: 1rem; */
   margin-top: 1rem;
   cursor: pointer;
   padding-left: 1.3rem;
   transition: 0.2s;
 }
-.links i:hover{
+
+.links i:hover {
   font-size: 1.1rem;
   color: #a36262;
 }
+
 .left-btn .left-rem {
   color: #fff;
   border: none;
@@ -103,7 +107,7 @@
   color: #111;
 }
 
-.hero-right .heroImg{
+.hero-right .heroImg {
   width: auto;
   height: 29rem;
   margin-left: 1rem;
